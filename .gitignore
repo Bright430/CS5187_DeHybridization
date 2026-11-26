@@ -1,0 +1,14 @@
+.workbuddy/
+__pycache__/
+*.pyc
+~$*
+buffalo_l.zip
+models/
+data/celeba_hq_1k5.parquet
+data/aligned/
+IEEE-Transactions-Word-templates-and-instructions/
+IEEE-Transactions-Word-templates-and-instructions.zip
+IEEE.pdf
+IEEEformat.doc
+选题参考.pdf
+项目要求.pdf
