@@ -1,0 +1,26 @@
+# WorkBuddy 本地工作数据（不要上传）
+.workbuddy/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Office 临时文件
+~$*
+
+# 大文件：模型权重与原始数据（超过 GitHub 100 MiB 单文件限制）
+buffalo_l.zip
+models/
+data/celeba_hq_1k5.parquet
+data/aligned/
+
+# 模板与无关文档
+IEEE-Transactions-Word-templates-and-instructions/
+IEEE-Transactions-Word-templates-and-instructions.zip
+IEEE.pdf
+IEEEformat.doc
+选题参考.pdf
+项目要求.pdf
+
+# 调试临时图
+chk_*.png
